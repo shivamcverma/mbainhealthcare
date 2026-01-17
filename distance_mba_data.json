@@ -225,16 +225,6 @@
             "reviews_url": "/university/lpu-lovely-professional-university-jalandhar-28499/reviews?course=227802"
           },
           {
-            "course_name": "MBA in Hospital and Healthcare Management",
-            "course_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499/course-mba-in-hospital-and-healthcare-management-130511",
-            "institute_name": "MBA in Hospital and Healthcare Management",
-            "institute_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499/course-mba-in-hospital-and-healthcare-management-130511",
-            "rating": "4.5",
-            "rating_percentage": "90%",
-            "reviews_count": "9",
-            "reviews_url": "/university/lpu-lovely-professional-university-jalandhar-28499/reviews?course=130511"
-          },
-          {
             "course_name": "Master of Business Administration (MBA)",
             "course_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499/course-master-of-business-administration-mba-130504",
             "institute_name": "Master of Business Administration (MBA)",
@@ -243,6 +233,16 @@
             "rating_percentage": "88%",
             "reviews_count": "583",
             "reviews_url": "/university/lpu-lovely-professional-university-jalandhar-28499/reviews?course=130504"
+          },
+          {
+            "course_name": "MBA in Hospital and Healthcare Management",
+            "course_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499/course-mba-in-hospital-and-healthcare-management-130511",
+            "institute_name": "MBA in Hospital and Healthcare Management",
+            "institute_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499/course-mba-in-hospital-and-healthcare-management-130511",
+            "rating": "4.5",
+            "rating_percentage": "90%",
+            "reviews_count": "9",
+            "reviews_url": "/university/lpu-lovely-professional-university-jalandhar-28499/reviews?course=130511"
           },
           {
             "course_name": "PGDM in Healthcare",
@@ -1466,7 +1466,7 @@
                 "answer_text": "Your professional background combines 11-years of nursing experience and an MBA in Hospital and Healthcare Management. This combination of clinical and management expertise gives you a unique advantage for pursuing leadership positions within hospitals, healthcare systems, or consulting organizations. By combining both Theoretical (Clinical) Acumen and Practical (Management) Acumen with a strong understanding of how both areas work together, you possess the ability to effectively manage Operations, Quality, and Strategic initiatives while having a Clinical perspective on what engaging in Patient Care means. As a result of this extensiv",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "20 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
