@@ -215,16 +215,6 @@
             "reviews_url": "/college/goa-institute-of-management-goa-other-22600/reviews?course=25918"
           },
           {
-            "course_name": "Integrated BBA + MBA",
-            "course_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499/course-integrated-bba-mba-227802",
-            "institute_name": "Integrated BBA + MBA",
-            "institute_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499/course-integrated-bba-mba-227802",
-            "rating": "4.3",
-            "rating_percentage": "86%",
-            "reviews_count": "20",
-            "reviews_url": "/university/lpu-lovely-professional-university-jalandhar-28499/reviews?course=227802"
-          },
-          {
             "course_name": "Master of Business Administration (MBA)",
             "course_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499/course-master-of-business-administration-mba-130504",
             "institute_name": "Master of Business Administration (MBA)",
@@ -243,6 +233,16 @@
             "rating_percentage": "90%",
             "reviews_count": "9",
             "reviews_url": "/university/lpu-lovely-professional-university-jalandhar-28499/reviews?course=130511"
+          },
+          {
+            "course_name": "Integrated BBA + MBA",
+            "course_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499/course-integrated-bba-mba-227802",
+            "institute_name": "Integrated BBA + MBA",
+            "institute_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499/course-integrated-bba-mba-227802",
+            "rating": "4.3",
+            "rating_percentage": "86%",
+            "reviews_count": "20",
+            "reviews_url": "/university/lpu-lovely-professional-university-jalandhar-28499/reviews?course=227802"
           },
           {
             "course_name": "PGDM in Healthcare",
@@ -1440,7 +1440,7 @@
         "stats": {
           "Questions": "1.4k",
           "Discussions": "0",
-          "Active Users": "9",
+          "Active Users": "10",
           "Followers": "246"
         },
         "questions": [
@@ -1466,7 +1466,7 @@
                 "answer_text": null,
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -1492,7 +1492,7 @@
                 "answer_text": "Your professional background combines 11-years of nursing experience and an MBA in Hospital and Healthcare Management. This combination of clinical and management expertise gives you a unique advantage for pursuing leadership positions within hospitals, healthcare systems, or consulting organizations. By combining both Theoretical (Clinical) Acumen and Practical (Management) Acumen with a strong understanding of how both areas work together, you possess the ability to effectively manage Operations, Quality, and Strategic initiatives while having a Clinical perspective on what engaging in Patient Care means. As a result of this extensiv",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "4 days ago"
+                "posted_time": "5 days ago"
               }
             ]
           },
